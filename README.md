@@ -20,6 +20,6 @@
 2. H. Kučera. Entropy, redundancy and functional load in Russian and Czech // American Contr. to the 5th International Congress of Slavists 1. The Hague: Mouton, 1963. P. 191–218.
 3. Малый академический словарь (Евгеньева А. П.). [Электронный ресурс]. URL: http://rus-yaz.niv.ru/doc/small-academic-vocabulary/index.htm (Дата обращения: 17.10.2021).
 
-А также модули:
+Использовались модули:
 1. [ru_accent_poet](https://github.com/yuliya1324/ru_accent) - разметка ударения
 2. [RusPhonetic](https://github.com/NyashniyVladya/RusPhonetic) - фонетический разбор 
