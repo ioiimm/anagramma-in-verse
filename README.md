@@ -21,5 +21,5 @@
 3. Малый академический словарь (Евгеньева А. П.). [Электронный ресурс]. URL: http://rus-yaz.niv.ru/doc/small-academic-vocabulary/index.htm (Дата обращения: 17.10.2021).
 
 А также модули:
-4. [ru_accent_poet](https://github.com/yuliya1324/ru_accent) - разметка ударения
-5. [RusPhonetic](https://github.com/NyashniyVladya/RusPhonetic) - фонетический разбор 
+1. [ru_accent_poet](https://github.com/yuliya1324/ru_accent) - разметка ударения
+2. [RusPhonetic](https://github.com/NyashniyVladya/RusPhonetic) - фонетический разбор 
